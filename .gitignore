@@ -1,0 +1,4 @@
+/target
+/.nexora
+**/.env
+**/.env.*
