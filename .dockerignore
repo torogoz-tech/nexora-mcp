@@ -1,0 +1,10 @@
+.git
+.github
+.nexora
+**/.env
+**/.env.*
+target
+Dockerfile*
+README.md
+CHANGELOG.md
+LICENSE
